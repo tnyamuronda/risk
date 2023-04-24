@@ -19,7 +19,7 @@ class Board(object):
     The Board object keeps track of all armies situated on the Risk
     world map. Through the definitions it knows the locations of and
     connections between all territories. It handles ownership, attacks
-    and movements of armies.
+    n movements of armies.
 
     Args:
         data (list): a sorted list of tuples describing the state of the
